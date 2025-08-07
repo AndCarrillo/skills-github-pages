@@ -21,11 +21,11 @@ Este sitio documenta experiencias profesionales y conocimientos técnicos con el
 
 ✨ **Publicaciones recientes:**
 
-- [Análisis de datos: Del caos a la información útil](/_posts/2025-08-10-analisis-datos.html)
-- [Reflexiones sobre desarrollo profesional de software](/_posts/2025-08-09-desarrollo-profesional.html)
-- [Mi primer proyecto: Calculadora en JavaScript](/_posts/2025-08-08-mi-primer-proyecto.html)
-- [Configurando mi entorno de desarrollo](/_posts/2025-08-07-configurando-mi-entorno.html)
-- [Inicio de documentación técnica personal](/_posts/2025-08-06-mi-primer-post.html)
+- [Análisis de datos en práctica](/_posts/2025-08-10-business-intelligence.html)
+- [Desarrollo profesional de software](/_posts/2025-08-09-desarrollo.html)
+- [Proyecto: Calculadora JavaScript](/_posts/2025-08-08-calculadora.html)
+- [Entorno de desarrollo](/_posts/2025-08-07-setup-desarrollo.html)
+- [Inicio de documentación técnica](/_posts/2025-08-06-mi-primer-post.html)
 
 Gracias por visitar mi página 🙌da
 
