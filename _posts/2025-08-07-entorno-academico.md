@@ -13,11 +13,13 @@ Documentación de configuración de herramientas utilizadas en proyectos univers
 ## Editor de desarrollo: Visual Studio Code
 
 ### Justificación académica
+
 VS Code se selecciona por su versatilidad y soporte multiplataforma, características relevantes para proyectos académicos diversos.
 
 ### Extensiones para desarrollo académico
+
 - **Live Server** - Visualización de proyectos web
-- **Prettier** - Estandarización de formato de código  
+- **Prettier** - Estandarización de formato de código
 - **GitLens** - Análisis detallado de versiones
 - **Thunder Client** - Testing de APIs en proyectos
 - **Auto Rename Tag** - Consistencia en HTML
@@ -25,6 +27,7 @@ VS Code se selecciona por su versatilidad y soporte multiplataforma, caracterís
 ## Control de versiones: Git
 
 ### Comandos fundamentales
+
 ```bash
 git init
 git add .
@@ -33,12 +36,15 @@ git push origin main
 ```
 
 ### Aplicación académica
+
 El uso de Git permite documentar la evolución de proyectos universitarios y mantener historial de cambios para evaluación académica.
 
 ## Navegadores para desarrollo web
 
 ### Firefox Developer Edition
+
 Seleccionado por sus herramientas de desarrollo avanzadas:
+
 - Inspector de CSS detallado
 - Debugging de JavaScript robusto
 - Simulación de dispositivos móviles
@@ -47,11 +53,13 @@ Seleccionado por sus herramientas de desarrollo avanzadas:
 ## Documentación de proyectos
 
 ### Herramientas de documentación
+
 - **Markdown** - Documentación técnica estándar
 - **GitHub README** - Documentación de repositorios
 - **Diagramas UML** - Modelado de sistemas
 
 ### Estándares académicos
+
 - Documentación clara y concisa
 - Comentarios en código fuente
 - Diagramas explicativos cuando corresponda
@@ -59,4 +67,4 @@ Seleccionado por sus herramientas de desarrollo avanzadas:
 
 ---
 
-*Configuración estándar para proyectos académicos de Ingeniería en Sistemas*
+_Configuración estándar para proyectos académicos de Ingeniería en Sistemas_

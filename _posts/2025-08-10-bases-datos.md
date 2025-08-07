@@ -13,6 +13,7 @@ Estudio teórico y práctico de los principios fundamentales de bases de datos r
 ## Marco teórico
 
 ### Modelo relacional
+
 Propuesto por Edgar F. Codd en 1970, el modelo relacional se basa en:
 
 - **Relaciones** - Representadas como tablas
@@ -21,6 +22,7 @@ Propuesto por Edgar F. Codd en 1970, el modelo relacional se basa en:
 - **Dominios** - Conjunto de valores posibles para un atributo
 
 ### Propiedades ACID
+
 Las transacciones en bases de datos deben cumplir:
 
 - **Atomicidad** - La transacción se ejecuta completamente o no se ejecuta
@@ -33,24 +35,28 @@ Las transacciones en bases de datos deben cumplir:
 ### Proceso de diseño
 
 #### 1. Análisis de requerimientos
+
 - Identificación de entidades
 - Determinación de atributos
 - Establecimiento de relaciones
 - Definición de restricciones
 
 #### 2. Diseño conceptual
+
 - Modelo Entidad-Relación (ER)
 - Diagramas ER extendidos
 - Especificación de cardinalidades
 - Identificación de claves primarias
 
 #### 3. Diseño lógico
+
 - Conversión del modelo ER a esquema relacional
 - Definición de claves foráneas
 - Especificación de restricciones de integridad
 - Aplicación de reglas de normalización
 
 #### 4. Diseño físico
+
 - Selección de tipos de datos
 - Definición de índices
 - Particionamiento de tablas
@@ -59,21 +65,25 @@ Las transacciones en bases de datos deben cumplir:
 ## Normalización de datos
 
 ### Primera Forma Normal (1FN)
+
 - Eliminación de grupos repetitivos
 - Cada atributo contiene valores atómicos
 - Identificación de clave primaria única
 
 ### Segunda Forma Normal (2FN)
+
 - Cumple 1FN
 - Eliminación de dependencias parciales
 - Todos los atributos no clave dependen completamente de la clave primaria
 
 ### Tercera Forma Normal (3FN)
+
 - Cumple 2FN
 - Eliminación de dependencias transitivas
 - Los atributos no clave no dependen de otros atributos no clave
 
 ### Forma Normal de Boyce-Codd (FNBC)
+
 - Versión mejorada de 3FN
 - Eliminación de dependencias funcionales problemáticas
 - Cada determinante es clave candidata
@@ -81,6 +91,7 @@ Las transacciones en bases de datos deben cumplir:
 ## Lenguaje SQL
 
 ### Definición de datos (DDL)
+
 ```sql
 -- Creación de tabla
 CREATE TABLE estudiantes (
@@ -91,7 +102,7 @@ CREATE TABLE estudiantes (
 );
 
 -- Modificación de estructura
-ALTER TABLE estudiantes 
+ALTER TABLE estudiantes
 ADD COLUMN email VARCHAR(100);
 
 -- Eliminación de tabla
@@ -99,22 +110,24 @@ DROP TABLE estudiantes;
 ```
 
 ### Manipulación de datos (DML)
+
 ```sql
 -- Inserción de datos
 INSERT INTO estudiantes (id_estudiante, nombre, carnet, fecha_ingreso)
 VALUES (1, 'Ana García', 'EST001', '2023-03-15');
 
 -- Actualización de datos
-UPDATE estudiantes 
+UPDATE estudiantes
 SET email = 'ana.garcia@universidad.edu'
 WHERE id_estudiante = 1;
 
 -- Eliminación de datos
-DELETE FROM estudiantes 
+DELETE FROM estudiantes
 WHERE fecha_ingreso < '2020-01-01';
 ```
 
 ### Consultas de datos (DQL)
+
 ```sql
 -- Consulta básica
 SELECT nombre, carnet, fecha_ingreso
@@ -135,16 +148,19 @@ WHERE n.calificacion >= 80;
 ### SGBD estudiados
 
 #### MySQL
+
 - **Ventajas**: Open source, amplia comunidad, buena documentación
 - **Uso académico**: Proyectos web, aplicaciones pequeñas a medianas
 - **Características**: ACID compliance, replicación, particionamiento
 
 #### PostgreSQL
+
 - **Ventajas**: Cumplimiento estricto de estándares SQL, extensibilidad
 - **Uso académico**: Proyectos complejos, análisis de datos
 - **Características**: Soporte JSON, arrays, funciones personalizadas
 
 #### SQL Server
+
 - **Ventajas**: Integración con ecosistema Microsoft, herramientas avanzadas
 - **Uso académico**: Proyectos empresariales, inteligencia de negocios
 - **Características**: Analysis Services, Integration Services, Reporting Services
@@ -152,12 +168,14 @@ WHERE n.calificacion >= 80;
 ## Optimización de consultas
 
 ### Índices
+
 - **Clustered Index**: Organiza físicamente los datos
 - **Non-clustered Index**: Punteros a ubicaciones de datos
 - **Composite Index**: Múltiples columnas
 - **Unique Index**: Garantiza unicidad
 
 ### Análisis de planes de ejecución
+
 - Identificación de operaciones costosas
 - Detección de table scans innecesarios
 - Optimización de joins
@@ -166,11 +184,13 @@ WHERE n.calificacion >= 80;
 ## Aplicaciones académicas
 
 ### Proyectos desarrollados
+
 - **Sistema de gestión académica**: Control de estudiantes y materias
 - **Inventario de laboratorio**: Gestión de equipos y préstamos
 - **Biblioteca digital**: Catálogo y préstamos de recursos
 
 ### Herramientas utilizadas
+
 - **MySQL Workbench**: Diseño y administración visual
 - **phpMyAdmin**: Interfaz web para MySQL
 - **SQL Server Management Studio**: Administración integral
@@ -178,4 +198,6 @@ WHERE n.calificacion >= 80;
 
 ---
 
-*Fundamentos de bases de datos relacionales aplicados en Ingeniería en Sistemas de Información*
+---
+
+_Fundamentos de bases de datos relacionales aplicados en Ingeniería en Sistemas de Información_

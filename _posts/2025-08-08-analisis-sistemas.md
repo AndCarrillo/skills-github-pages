@@ -13,9 +13,11 @@ Estudio de los fundamentos teóricos y prácticos del análisis de sistemas de i
 ## Marco teórico
 
 ### Definición de sistema de información
+
 Un sistema de información se define como un conjunto de componentes interrelacionados que recolectan, filtran, procesan, crean y distribuyen datos.
 
 ### Componentes fundamentales
+
 - **Hardware** - Infraestructura física
 - **Software** - Programas y aplicaciones
 - **Datos** - Información estructurada
@@ -25,12 +27,14 @@ Un sistema de información se define como un conjunto de componentes interrelaci
 ## Metodologías de análisis
 
 ### Análisis estructurado
+
 - Diagramas de flujo de datos (DFD)
 - Diccionario de datos
 - Especificaciones de procesos
 - Modelado entidad-relación
 
 ### Análisis orientado a objetos
+
 - Diagramas de casos de uso
 - Diagramas de clases
 - Diagramas de secuencia
@@ -39,12 +43,14 @@ Un sistema de información se define como un conjunto de componentes interrelaci
 ## Técnicas de recolección de información
 
 ### Métodos primarios
+
 - **Entrevistas** - Obtención directa de requerimientos
 - **Observación** - Análisis de procesos actuales
 - **Cuestionarios** - Recolección sistemática de datos
 - **Workshops** - Sesiones colaborativas de análisis
 
 ### Métodos secundarios
+
 - Revisión de documentación existente
 - Análisis de sistemas similares
 - Estudio de reportes y estadísticas
@@ -53,19 +59,23 @@ Un sistema de información se define como un conjunto de componentes interrelaci
 ## Modelado de procesos
 
 ### Notación BPMN
+
 Business Process Model and Notation para representar procesos de negocio de manera estandarizada.
 
 ### Diagramas de actividades UML
+
 Representación de flujos de trabajo y procesos mediante notación UML estándar.
 
 ## Análisis de requerimientos
 
 ### Clasificación de requerimientos
+
 - **Funcionales** - Qué debe hacer el sistema
 - **No funcionales** - Cómo debe comportarse el sistema
 - **De dominio** - Restricciones del área de aplicación
 
 ### Técnicas de validación
+
 - Revisiones formales
 - Prototipado
 - Casos de prueba
@@ -74,6 +84,7 @@ Representación de flujos de trabajo y procesos mediante notación UML estándar
 ## Herramientas utilizadas
 
 ### Software de modelado
+
 - **Lucidchart** - Diagramas colaborativos
 - **Draw.io** - Herramienta gratuita de diagramación
 - **Enterprise Architect** - Modelado UML completo
@@ -81,4 +92,4 @@ Representación de flujos de trabajo y procesos mediante notación UML estándar
 
 ---
 
-*Fundamentos teóricos aplicados en proyectos académicos de Ingeniería en Sistemas*
+_Fundamentos teóricos aplicados en proyectos académicos de Ingeniería en Sistemas_

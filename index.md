@@ -18,6 +18,7 @@ Documentación de conceptos, tecnologías y proyectos desarrollados durante la c
 ## 🔬 Enfoque metodológico
 
 Esta documentación sigue principios académicos de:
+
 - Registro sistemático de aprendizajes
 - Documentación de procesos y resultados
 - Análisis crítico de tecnologías estudiadas
@@ -33,4 +34,4 @@ Esta documentación sigue principios académicos de:
 
 ---
 
-*Documentación académica - Ingeniería en Sistemas de Información*
+_Documentación académica - Ingeniería en Sistemas de Información_

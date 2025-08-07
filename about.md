@@ -14,12 +14,14 @@ Desarrollo de software y análisis de datos con enfoque en metodologías estruct
 ## Tecnologías estudiadas
 
 ### Lenguajes de programación
+
 - **Python** - Análisis de datos y scripts
 - **C#/.NET** - Desarrollo de aplicaciones
 - **SQL** - Gestión de bases de datos
 - **JavaScript** - Desarrollo web
 
 ### Herramientas académicas
+
 - **Power BI** - Inteligencia de negocios
 - **Azure DevOps** - Control de versiones
 - **GitHub** - Repositorios académicos
@@ -44,4 +46,4 @@ Este sitio recopila conocimientos adquiridos durante el proceso de formación ac
 
 ---
 
-*Documentación académica - Universidad Nacional de Costa Rica*
+_Documentación académica - Universidad Nacional de Costa Rica_

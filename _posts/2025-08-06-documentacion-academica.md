@@ -13,12 +13,14 @@ La documentación técnica constituye una herramienta fundamental en el proceso 
 ## Objetivos de la documentación académica
 
 ### Registro sistemático
+
 - Conceptos teóricos estudiados
 - Implementaciones prácticas realizadas
 - Análisis de tecnologías aplicadas
 - Metodologías de desarrollo aprendidas
 
 ### Metodología aplicada
+
 - Estructura formal de documentación
 - Referencias técnicas apropiadas
 - Análisis crítico de resultados
@@ -29,6 +31,7 @@ La documentación técnica constituye una herramienta fundamental en el proceso 
 ### GitHub Pages como herramienta académica
 
 Ventajas para documentación universitaria:
+
 - **Accesibilidad** - Contenido público y accesible
 - **Versionado** - Control de cambios mediante Git
 - **Estructura** - Organización sistemática del contenido
@@ -37,12 +40,14 @@ Ventajas para documentación universitaria:
 ## Alcance de la documentación
 
 ### Áreas a documentar
+
 - Configuración de entornos de desarrollo
 - Análisis de casos de estudio
 - Implementación de proyectos académicos
 - Evaluación de herramientas tecnológicas
 
 ### Estándares académicos
+
 - Terminología técnica apropiada
 - Referencias bibliográficas cuando corresponda
 - Análisis objetivo de resultados
@@ -50,4 +55,4 @@ Ventajas para documentación universitaria:
 
 ---
 
-*Documentación técnica académica - Ingeniería en Sistemas de Información*
+_Documentación técnica académica - Ingeniería en Sistemas de Información_
