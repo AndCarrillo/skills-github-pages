@@ -198,6 +198,4 @@ WHERE n.calificacion >= 80;
 
 ---
 
----
-
 _Fundamentos de bases de datos relacionales aplicados en Ingeniería en Sistemas de Información_
