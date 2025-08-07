@@ -1,6 +1,6 @@
 ---
 title: "Documentación Académica"
-layout: page
+layout: default
 ---
 
 # Documentación Académica - Ingeniería en Sistemas

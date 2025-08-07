@@ -1,6 +1,6 @@
 ---
 title: "Perfil Académico"
-layout: page
+layout: default
 ---
 
 # Andrea Carrillo
