@@ -1,4 +1,31 @@
-theme: minima
+remote_theme: daattali/beautiful-jekyll
 title: AndCarrillo's personal blog
 description: This is where I share cool stuff about my life
 author: AndCarrillo
+
+# Beautiful Jekyll specific settings
+navbar-links:
+  About Me: "aboutme"
+  Blog: "/"
+  Contact: "contact"
+
+# Avatar - you can add your photo URL here
+# avatar: "/assets/img/avatar-icon.png"
+
+# Social media links
+social-network-links:
+  github: AndCarrillo
+  # twitter: yourusername
+  # linkedin: yourname
+
+# Enable beautiful-jekyll features
+navbar-col: "#EAEAEA"
+navbar-text-col: "#404040"
+navbar-border-col: "#DDDDDD"
+page-col: "#FFFFFF"
+text-col: "#404040"
+link-col: "#008AFF"
+hover-col: "#0085A1"
+footer-col: "#EAEAEA"
+footer-text-col: "#777777"
+footer-link-col: "#404040"
