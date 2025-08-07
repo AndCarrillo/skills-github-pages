@@ -7,8 +7,6 @@ layout: default
 
 > _"El conocimiento se construye documentando el proceso de aprendizaje."_
 
-**Navegación:** [Inicio](/) | [Documentación](/posts/)
-
 Portal de documentación académica para estudios en Ingeniería en Sistemas de Información.
 
 ## 🎓 Propósito académico
