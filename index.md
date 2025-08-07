@@ -1,39 +1,36 @@
-# 👋 Andrea Carrillo - Documentación Técnica
+# Documentación Académica - Ingeniería en Sistemas
 
-> _"El conocimiento compartido acelera el progreso colectivo."_
+> _"El conocimiento se construye documentando el proceso de aprendizaje."_
 
-Bienvenidos a mi espacio de documentación técnica donde comparto experiencias, proyectos y conocimientos en el ámbito del desarrollo de software.
+Portal de documentación académica para estudios en Ingeniería en Sistemas de Información.
 
-## 🚀 Perfil profesional
+## 🎓 Propósito académico
 
-**Andrea Carrillo**, estudiante de Ingeniería en Sistemas de Información con experiencia práctica en desarrollo full-stack, análisis de datos, y gestión de proyectos tecnológicos.
+Documentación de conceptos, tecnologías y proyectos desarrollados durante la carrera universitaria en Ingeniería en Sistemas.
 
-## 📝 Contenido disponible
+## 📚 Áreas de estudio
 
-- **Desarrollo de software** - Experiencias y mejores prácticas
-- **Análisis de datos** - Herramientas y metodologías
-- **Gestión de proyectos** - Implementación de metodologías ágiles
-- **Documentación técnica** - Procesos y soluciones
+- **Desarrollo de software** - Conceptos y implementaciones
+- **Análisis de datos** - Técnicas y herramientas
+- **Metodologías de desarrollo** - Teoría y práctica
+- **Proyectos académicos** - Documentación de casos de estudio
 
-## 🔗 Propósito del sitio
+## 🔬 Enfoque metodológico
 
-Este sitio documenta experiencias profesionales y conocimientos técnicos con el objetivo de contribuir al intercambio de información en la comunidad de desarrollo.---
+Esta documentación sigue principios académicos de:
+- Registro sistemático de aprendizajes
+- Documentación de procesos y resultados
+- Análisis crítico de tecnologías estudiadas
+- Compilación de recursos educativos
 
-✨ **Publicaciones recientes:**
+## 📖 **Documentación disponible:**
 
-- [Análisis de datos en práctica](/_posts/2025-08-10-business-intelligence.html)
-- [Desarrollo profesional de software](/_posts/2025-08-09-desarrollo.html)
-- [Proyecto: Calculadora JavaScript](/_posts/2025-08-08-calculadora.html)
-- [Entorno de desarrollo](/_posts/2025-08-07-setup-desarrollo.html)
-- [Inicio de documentación técnica](/_posts/2025-08-06-mi-primer-post.html)
-
-Gracias por visitar mi página 🙌da
-
-> _“Cada desafío es una oportunidad para crecer.”_
-
-Hola, soy Andrea  
-Este sitio fue creado como parte del tutorial de GitHub Pages, mientras exploro nuevas herramientas.
+- [Gestión de bases de datos relacionales](/_posts/2025-08-10-bases-datos.html)
+- [Metodologías ágiles en proyectos académicos](/_posts/2025-08-09-metodologias-agiles.html)
+- [Fundamentos de análisis de sistemas](/_posts/2025-08-08-analisis-sistemas.html)
+- [Configuración de entornos de desarrollo académico](/_posts/2025-08-07-entorno-academico.html)
+- [Introducción a la documentación técnica académica](/_posts/2025-08-06-documentacion-academica.html)
 
 ---
 
-Gracias por visitar mi página 🙌
+*Documentación académica - Ingeniería en Sistemas de Información*

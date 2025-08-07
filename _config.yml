@@ -1,15 +1,14 @@
-title: "Andrea Carrillo - Dev Journey"
-description: "Full Stack Developer e Ingeniera en Sistemas compartiendo experiencias reales en desarrollo web, análisis de datos, y tecnologías como C#, Python, SQL y Power BI."
+title: "Documentación Académica - Andrea Carrillo"
+description: "Documentación de estudios en Ingeniería en Sistemas: conceptos, tecnologías y proyectos académicos en desarrollo de software y análisis de datos."
 author:
   name: "Andrea Carrillo"
   github: "AndCarrillo"
-email: acarrillo.vlk@gmail.com
 url: "https://andcarrillo.github.io"
 baseurl: "/skills-github-pages"
 
-# Configuración del blog
+# Configuración académica
 show_excerpts: true
-paginate: 5
+paginate: 10
 
 # Jekyll settings
 theme: jekyll-theme-hacker
@@ -17,22 +16,14 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
 
-# Navegación
+# Navegación académica
 nav_links:
   - title: "Inicio"
     url: "/"
-  - title: "Posts"
+  - title: "Documentación"
     url: "/posts/"
-  - title: "Acerca de"
+  - title: "Perfil Académico"
     url: "/about/"
-
-# SEO y social
-twitter:
-  username: "AndCarrillo"
-social:
-  name: "Andrea Carrillo"
-  links:
-    - "https://github.com/AndCarrillo"
 
 # Configuración de posts
 defaults:
@@ -41,4 +32,4 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "Andrea"
+      author: "Andrea Carrillo"
