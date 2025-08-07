@@ -1,4 +1,44 @@
-title: Valky's personal blog
-description: This is a test site created as part of the GitHub Pages tutorial.
-author: AndCarrillo
+title: "Andrea's Dev Journey"
+description: "Un blog personal donde documento mi aprendizaje en programación, comparto proyectos y reflexiones sobre tecnología. ¡Acompáñame en esta aventura!"
+author: 
+  name: "Andrea Carrillo"
+  github: "AndCarrillo"
+email: andrea@example.com
+url: "https://andcarrillo.github.io"
+baseurl: "/skills-github-pages"
+
+# Configuración del blog
+show_excerpts: true
+paginate: 5
+
+# Jekyll settings
 theme: jekyll-theme-hacker
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Navegación
+nav_links:
+  - title: "Inicio"
+    url: "/"
+  - title: "Posts"
+    url: "/posts/"
+  - title: "Acerca de"
+    url: "/about/"
+
+# SEO y social
+twitter:
+  username: "tu_usuario"
+social:
+  name: "Andrea Carrillo"
+  links:
+    - "https://github.com/AndCarrillo"
+
+# Configuración de posts
+defaults:
+  - scope:
+      path: "_posts"
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Andrea"
