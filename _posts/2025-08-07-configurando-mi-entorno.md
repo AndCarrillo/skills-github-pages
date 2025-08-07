@@ -72,7 +72,7 @@ Estoy explorando:
 
 ---
 
-*¿Qué herramientas usas tú? Me encantaría conocer tu setup en los comentarios.*
+_¿Qué herramientas usas tú? Me encantaría conocer tu setup en los comentarios._
 
 ## Enlaces útiles
 

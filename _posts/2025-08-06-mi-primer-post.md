@@ -1,41 +1,42 @@
 ---
-title: "¡Bienvenidos a mi blog en GitHub Pages!"
+title: "Inicio de documentación técnica personal"
 date: 2025-08-06
 author: "Andrea"
-categories: [blog, tutorial]
-tags: [github-pages, jekyll, primer-post]
+categories: [blog, documentacion]
+tags: [github-pages, desarrollo-web, documentacion]
 ---
 
-# ¡Hola mundo!
+# Bienvenidos a mi espacio de documentación
 
-Hoy comienzo mi aventura con **GitHub Pages** y quiero compartir contigo este emocionante viaje.
+Este sitio representa el inicio de un proyecto de documentación personal donde compartiré conocimientos y experiencias relacionadas con el desarrollo de software.
 
-## ¿Qué es este blog?
+## Propósito de este espacio
 
-Este es un espacio donde documentaré:
+Esta plataforma servirá para documentar:
 
-- 📚 Mis aprendizajes en programación
-- 🚀 Proyectos interesantes que vaya desarrollando
-- 💡 Tips y trucos que descubra en el camino
-- 🤝 Experiencias compartiendo conocimiento
+- 📚 Conceptos y tecnologías aprendidas
+- 🚀 Proyectos de desarrollo realizados
+- 💡 Soluciones a problemas técnicos encontrados
+- 🤝 Experiencias en el ámbito profesional
 
-## ¿Por qué GitHub Pages?
+## Ventajas de GitHub Pages
 
-GitHub Pages es una excelente herramienta porque:
+GitHub Pages resulta una opción adecuada para este propósito por:
 
-1. **Es gratis** - Perfecto para empezar
-2. **Fácil de usar** - Se integra directamente con Git
-3. **Flexible** - Puedo personalizar todo lo que quiera
-4. **Confiable** - Respaldado por GitHub
+1. **Costo-efectivo** - Hosting gratuito para contenido estático
+2. **Integración nativa** - Compatibilidad directa con Git
+3. **Flexibilidad** - Personalización completa del contenido
+4. **Confiabilidad** - Infraestructura respaldada por GitHub
 
-## Lo que viene...
+## Contenido futuro
 
-En los próximos posts estaré compartiendo:
+En próximas publicaciones se abordarán temas como:
 
-- Cómo configuré este blog paso a paso
-- Mis primeros proyectos en GitHub
-- Recursos útiles para desarrolladores principiantes
+- Configuración de entornos de desarrollo
+- Implementación de proyectos web
+- Mejores prácticas en programación
+- Herramientas de análisis de datos
 
 ---
 
-*¡Gracias por acompañarme en este inicio! Nos vemos en el próximo post.*
+*Este espacio busca contribuir al conocimiento compartido en la comunidad de desarrollo.*

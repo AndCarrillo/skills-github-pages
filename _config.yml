@@ -1,9 +1,9 @@
-title: "Andrea's Dev Journey"
-description: "Un blog personal donde documento mi aprendizaje en programación, comparto proyectos y reflexiones sobre tecnología. ¡Acompáñame en esta aventura!"
-author: 
+title: "Andrea Carrillo - Dev Journey"
+description: "Full Stack Developer e Ingeniera en Sistemas compartiendo experiencias reales en desarrollo web, análisis de datos, y tecnologías como C#, Python, SQL y Power BI."
+author:
   name: "Andrea Carrillo"
   github: "AndCarrillo"
-email: andrea@example.com
+email: acarrillo.vlk@gmail.com
 url: "https://andcarrillo.github.io"
 baseurl: "/skills-github-pages"
 
@@ -28,7 +28,7 @@ nav_links:
 
 # SEO y social
 twitter:
-  username: "tu_usuario"
+  username: "AndCarrillo"
 social:
   name: "Andrea Carrillo"
   links:

@@ -1,30 +1,31 @@
-# 👋 Bienvenidos a mi Blog
+# 👋 Andrea Carrillo - Documentación Técnica
 
-> _"Cada desafío es una oportunidad para crecer."_
+> _"El conocimiento compartido acelera el progreso colectivo."_
 
-¡Hola! Soy **Andrea** y este es mi espacio personal donde comparto mi viaje en el mundo de la programación y la tecnología.
+Bienvenidos a mi espacio de documentación técnica donde comparto experiencias, proyectos y conocimientos en el ámbito del desarrollo de software.
 
-## 🚀 Acerca de mí
+## 🚀 Perfil profesional
 
-Soy una desarrolladora en formación apasionada por aprender nuevas tecnologías y compartir conocimiento. Este blog nació como parte de mi aprendizaje con GitHub Pages, pero se está convirtiendo en mucho más.
+**Andrea Carrillo**, estudiante de Ingeniería en Sistemas de Información con experiencia práctica en desarrollo full-stack, análisis de datos, y gestión de proyectos tecnológicos.
 
-## 📝 ¿Qué encontrarás aquí?
+## 📝 Contenido disponible
 
-- **Tutoriales** paso a paso de herramientas de desarrollo
-- **Proyectos** personales y ejercicios de práctica  
-- **Reflexiones** sobre mi proceso de aprendizaje
-- **Recursos** útiles que voy descubriendo
+- **Desarrollo de software** - Experiencias y mejores prácticas
+- **Análisis de datos** - Herramientas y metodologías
+- **Gestión de proyectos** - Implementación de metodologías ágiles
+- **Documentación técnica** - Procesos y soluciones
 
-## 🔗 Conectemos
+## 🔗 Propósito del sitio
 
-Este sitio fue creado como parte del tutorial de GitHub Pages, mientras exploro nuevas herramientas y comparto el conocimiento que voy adquiriendo.
+Este sitio documenta experiencias profesionales y conocimientos técnicos con el objetivo de contribuir al intercambio de información en la comunidad de desarrollo.---
 
----
+✨ **Publicaciones recientes:**
 
-✨ **Últimos posts:**
+- [Análisis de datos: Del caos a la información útil](/_posts/2025-08-10-analisis-datos.html)
+- [Reflexiones sobre desarrollo profesional de software](/_posts/2025-08-09-desarrollo-profesional.html)
 - [Mi primer proyecto: Calculadora en JavaScript](/_posts/2025-08-08-mi-primer-proyecto.html)
-- [Configurando mi entorno de desarrollo](/_posts/2025-08-07-configurando-mi-entorno.html)  
-- [¡Bienvenidos a mi blog en GitHub Pages!](/_posts/2025-08-06-mi-primer-post.html)
+- [Configurando mi entorno de desarrollo](/_posts/2025-08-07-configurando-mi-entorno.html)
+- [Inicio de documentación técnica personal](/_posts/2025-08-06-mi-primer-post.html)
 
 Gracias por visitar mi página 🙌da
 
