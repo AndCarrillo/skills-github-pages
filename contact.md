@@ -11,12 +11,11 @@ Si tienes alguna pregunta, sugerencia, o simplemente quieres saludar, aquí te d
 ## 🔗 Redes Sociales
 
 - **GitHub**: [@AndCarrillo](https://github.com/AndCarrillo)
-- **LinkedIn**: [Mi perfil profesional](#) *(actualiza con tu enlace)*
-- **Twitter**: [@tu_usuario](#) *(si tienes cuenta)*
+- **LinkedIn**: [Mi perfil profesional](https://www.linkedin.com/in/andrea-carrillo-vlk/)
 
 ## 📧 Email
 
-¿Prefieres el email? Escríbeme a: **tu.email@ejemplo.com** *(actualiza con tu email)*
+¿Prefieres el email? Escríbeme a: **acarrillo.vlk@gmail.com**
 
 ## 💬 Sobre qué podemos hablar
 
