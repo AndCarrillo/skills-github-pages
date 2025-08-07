@@ -31,11 +31,11 @@ Esta documentación sigue principios académicos de:
 
 ## 📖 **Documentación disponible:**
 
-- [Gestión de bases de datos relacionales](/_posts/2025-08-10-bases-datos)
-- [Metodologías ágiles en proyectos académicos](/_posts/2025-08-09-metodologias-agiles)
-- [Fundamentos de análisis de sistemas](/_posts/2025-08-08-analisis-sistemas)
-- [Configuración de entornos de desarrollo académico](/_posts/2025-08-07-entorno-academico)
-- [Introducción a la documentación técnica académica](/_posts/2025-08-06-documentacion-academica)
+- [Gestión de bases de datos relacionales](/skills-github-pages/2025/08/10/bases-datos.html)
+- [Metodologías ágiles en proyectos académicos](/skills-github-pages/2025/08/09/metodologias-agiles.html)
+- [Fundamentos de análisis de sistemas](/skills-github-pages/2025/08/08/analisis-sistemas.html)
+- [Configuración de entornos de desarrollo académico](/skills-github-pages/2025/08/07/entorno-academico.html)
+- [Introducción a la documentación técnica académica](/skills-github-pages/2025/08/06/documentacion-academica.html)
 
 ---
 
