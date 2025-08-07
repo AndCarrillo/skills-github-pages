@@ -5,6 +5,8 @@ layout: default
 
 # Andrea Carrillo
 
+**Navegación:** [Inicio](/) | [Perfil Académico](/about/) | [Documentación](/posts/)
+
 Estudiante de Ingeniería en Sistemas de Información - Universidad Nacional de Costa Rica
 
 ## Área de especialización
